@@ -11,8 +11,8 @@ import {
 } from 'react-native';
 
 const initialItems = [
-  { id: '1', title: 'Marvel movies', category: 'MOVIES', done: false },
-  { id: '2', title: 'Never Let Me Go', category: 'BL SERIES', done: false },
+  { id: '1', title: 'Marvel Movies', category: 'MOVIES', done: false },
+  { id: '2', title: 'Never let me go', category: 'BL SERIES', done: false },
   { id: '3', title: 'My School President', category: 'BL SERIES', done: false },
   { id: '4', title: 'True Beauty', category: 'K-DRAMA', done: false },
   { id: '5', title: 'Dragon Ball', category: 'ANIME', done: false },
